@@ -7,7 +7,7 @@
 
 使用 Hydrogen 进行翻译，以官方日语（jp）为基准、交叉核对官方英文（en），译校了全部 52 个剧本共 13,998 行日常与主线正文及全部 27 处多语言选项。
 
-针对中文母语语序进行意译润色，世界观专有名词与店名（`Artifact`、`Overlord`、`The Order`、`Punishment`、`Stigma`、`Ambrosia`、`Sephirot`、`Rig Veda`、`Valhalla Society`、`Gate`、`Nine Ball`、`MockDonald's`）保留英文，并全面修复了官方繁中残余的未翻译日文说话人标签（如 `レナ`、`イーリス　`、`暴走した男`、`女生徒` 等）及音乐鉴赏提示词条。
+针对中文母语语序进行意译润色，世界观专有名词与店名（`Artifact`、`Overlord`、`The Order`、`Punishment`、`Stigma`、`Ambrosia`、`Sephirot`、`Rig Veda`、`Valhalla Society`、`Gate`、`Nine Ball`、`MockDonald's`）保留英文；全面修复并重译了 **Overlord 流程图面板**（修复官方繁中 `chartlist_cn.ks` 全部条目首字丢失的恶性 Bug 并译校全部 82 个节点，同时将分支标题图片 `ソフィの世界` / `都の枝` / `天の枝` / `春風の枝` / `希亜の枝` 与 `戻る` 按钮重制为简体中文）、官方繁中残余的未翻译日文说话人标签（如 `レナ`、`イーリス　`、`暴走した男`、`女生徒` 等）及音乐鉴赏提示词条。
 
 注：`d10d`、`d21b` 中触发安全策略的 540 行 R18 场景文本保留官方原版中文。
 
